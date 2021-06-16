@@ -54,5 +54,5 @@ print(my_info)
 # Create a tuple and convert tuple into list
 
 Tuple = (22, 'K', 81, 91, 61, 71, 'e', 't')
-Tuple = list(Tuple)
-print(Tuple)
+List = list(Tuple)
+print(List)
